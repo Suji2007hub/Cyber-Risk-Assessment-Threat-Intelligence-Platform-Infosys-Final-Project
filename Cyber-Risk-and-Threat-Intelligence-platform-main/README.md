@@ -189,7 +189,7 @@ The `sample_test_targets.txt` file contains the following intentionally vulnerab
 | Name | GitHub |
 |---|---|
 | Dhanush Polasi | [@userid1](https://github.com/DhanushP545) |
-| Sujithraa | [@userid2](https://github.com/Suji2007hub) |
+| Noor Nabeeha| [@userid2](https://github.com/Suji2007hub) |
 | Akshay Bakale | [@userid3](https://github.com/AkshayBakale/) |
 | Eswar V | [@userid4](https://github.com/eswar0113) |
 
