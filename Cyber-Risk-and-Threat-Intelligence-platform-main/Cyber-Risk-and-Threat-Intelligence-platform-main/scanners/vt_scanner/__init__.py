@@ -1,1 +1,0 @@
-from .vt_scanner import run_vt_scan
